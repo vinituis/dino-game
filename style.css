@@ -21,7 +21,13 @@ body {
 .game-over {
     text-align: center;
     color: #696969;
-    margin-top: 60px;
+    margin-top: 20%;
+    font-family: Verdana, sans-serif;
+}
+
+.game-over-description {
+    text-align: center;
+    color: #696969;
     font-family: Verdana, sans-serif;
 }
 
